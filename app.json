@@ -1,0 +1,8 @@
+{
+  "name": "Template-with-the-basic-implementation-in-heroku",
+  "description": "Template with the basic implementation in heroku.",
+  "repository": "https://github.com/luisedo97/Template-with-the-basic-implementation-in-heroku",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

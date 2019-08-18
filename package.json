@@ -1,0 +1,34 @@
+{
+  "name": "template-with-the-basic-implementation-in-heroku",
+  "version": "1.0.0",
+  "description": "Template with the basic implementation in heroku to perform the deployment more quickly.",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^2.5.6",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisedo97/Template-with-the-basic-implementation-in-heroku"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
